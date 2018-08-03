@@ -19,11 +19,11 @@ visible: true
 *   [Filtro Holandês](#dutch)
 *   [Filtro Português/Espanhol](#spanish)
 *   [Filtro Turco](#turkish)
-*   [Filtro de anúncios Polonês](#polish-ads)
+*   [Filtro de Anúncios Polonês](#polish-ads)
 *   [Filtro experimental](#experimental)
-*   [Filtro de anúncios móveis](#mobile)
+*   [Filtro de Anúncios Móveis](#mobile)
 *   [Filtro para Safari](#safari)
-*   [Filtro de nomes de domínio simplificado](#domains)
+*   [Filtro de Nomes de Domínio Simplificado](#domains)
 
 <a name="introduction"></a>
 
@@ -178,7 +178,7 @@ Filter that enables removing of the ads from websites with Turkish content. Crea
 
 <a name="polish-ads"></a>
 
-## Filtro de anúncios Polonês
+## Filtro de Anúncios Polonês
 
 This is an AdGuard-specific supplement for the Adblock polskie reguły filter. It specifically removes adverts on Polish language websites. This filter is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
@@ -188,7 +188,7 @@ This is an AdGuard-specific supplement for the Adblock polskie reguły filter. I
 
 <a name="mobile"></a>
 
-## Filtro de anúncios móveis
+## Filtro de Anúncios Móveis
 
 Filter that blocks ads on mobile devices. Contains all known mobile ad networks. This filter is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/) license.
 
@@ -208,7 +208,7 @@ Special filter for Safari 9 and above on iOS and MacOS to use in combination wit
 
 <a name="domains"></a>
 
-## Filtro de nomes de domínio simplificado
+## Filtro de Nomes de Domínio Simplificado
 
 A filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking. This filter is used by AdGuard DNS servers to block ads. To learn more about DNS-level blocking, visit [this page](https://adguard.com/adguard-dns/overview.html). This filter is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/) license.
 
