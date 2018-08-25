@@ -8,10 +8,10 @@ visible: true
 
 *   [Introdução](#introduction)
 *   [Filtro Inglês](#english)
-*   [Filtro de Spyware](#privacy)
-*   [Filtro de Rede Sociais](#social)
-*   [Filtro de Aborrecimentos](#annoyances)
-*   [Filtro de Anúncios Aceitáveis](#useful)
+*   [Filtro para Spyware](#privacy)
+*   [Filtro para Rede Sociais](#social)
+*   [Filtro para Aborrecimentos](#annoyances)
+*   [Filtro para Anúncios Aceitáveis](#useful)
 *   [Filtro Russo](#russian)
 *   [Fultro Alemão](#german)
 *   [Filtro Francês](#french)
@@ -19,23 +19,23 @@ visible: true
 *   [Filtro Holandês](#dutch)
 *   [Filtro Português/Espanhol](#spanish)
 *   [Filtro Turco](#turkish)
-*   [Filtro de Anúncios Polonês](#polish-ads)
-*   [Filtro experimental](#experimental)
-*   [Filtro de Anúncios Móveis](#mobile)
+*   [Filtro para Anúncios Polonês](#polish-ads)
+*   [Filtro Experimental](#experimental)
+*   [Filtro para Dispositivo Móvel](#mobile)
 *   [Filtro para Safari](#safari)
-*   [Filtro de Nomes de Domínio Simplificado](#domains)
+*   [Filtro para Nomes de Domínio Simplificado](#domains)
 
 <a name="introduction"></a>
 
 ## Introdução
 
-Filter is a set of filtering rules for advertising content (banners, pop-ups and such). AdGuard is supplied with a set of standard filters created by us. They are being constantly improved and supplemented, and hopefully satisfy most users. From time to time, each AdGuard application checks for updates of all enabled ad filters.
+Filtro é um conjunto de regras de filtragem contra conteúdo publicitário(banners, pop-ups e outros). O AdGuard é fornecido com um conjunto de filtros padrão criados por nós. Eles estão sendo constantemente atualizados e melhorados e com isso esperamos satisfazer a maioria dos nossos usuários. De tempos em tempos, cada aplicativo do AdGuard verifica as atualizações de todos os filtros de anúncios ativados.
 
-There are several options to tell us about the problem with advertising filters. You can send a complaint via the program or browser extension, or you can contact us on the [forum](https://forum.adguard.com/?langid=1).
+Existem várias opções para reportar sobre problemas nos filtros de publicidade. Você pode enviar uma reclamação por meio do programa ou da extensão do navegador ou entrar em contato conosco no [fórum](https://forum.adguard.com/?langid=1).
 
-Filters are designed for use in all AdGuard products. If you wish, you can also use them in Adblock Plus. However note that the syntax of Adguard filtering rules is more advanced than in ABP. Therefore, part of the rules will not work in ABP.
+Os filtros são projetados para uso em todos os produtos AdGuard. Se desejar, você também pode usá-los no Adblock Plus. No entanto, observe que a sintaxe das regras de filtragem do AdGuard é mais avançada do que no ABP. Portanto, parte das regras não irá funcionar no ABP.
 
-You can find a manual of filtering rules creation syntax on [this link](/general/how-to-create-your-own-ad-filters).
+Você pode encontrar um manual da sintaxe de criação de regras de filtragem [neste link](/general/how-to-create-your-own-ad-filters).
 
 [Política de filtros do AdGuard](https://kb.adguard.com/en/general/adguard-filter-policy)
 
@@ -54,9 +54,9 @@ Filter that enables removing of the ads from websites with English content. Orig
 
 ## Filtro de Spyware
 
-The most comprehensive list of various online counters and web analytics tools. If you do not want your actions on the Internet be tracked, use this filter.
+A lista mais abrangente de vários contadores online e sistemas analíticos. Use este filtro se você não quiser que suas ações na internet sejam rastreadas.
 
-This filter is original and was developed by us from scratch. License: [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/).
+Este filtro é original e foi desenvolvido por nós a partir do zero. Licença: [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/).
 
 [Ver todas as regras](https://filters.adtidy.org/extension/chromium/filters/3.txt)
 
@@ -68,7 +68,7 @@ This filter is original and was developed by us from scratch. License: [Creative
 
 If you do not like numerous «Like» and «Tweet» buttons on all the popular websites on the Internet, subscribe to this filter, and you will not see them anymore.
 
-This filter is original and was developed by us. License: [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/).
+Este filtro é original e foi desenvolvido por nós a partir do zero. Licença: [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/).
 
 [Ver todas as regras](https://filters.adtidy.org/extension/chromium/filters/4.txt)
 
@@ -78,7 +78,7 @@ This filter is original and was developed by us. License: [Creative Commons Attr
 
 ## Filtro de Aborrecimentos
 
-Blocks irritating elements on webpages, including cookie notices, third-party widgets and in-page popups (Doesn’t include social media widgets and buttons, to block them you can still use Social media filter separately). It was inspired by Fanboy Annoyances List, but doesn’t duplicate it, so you can use them both together.
+Bloqueia elementos irritantes nos sites, incluindo avisos de utilização de cookies, widgets de terceiros e pop-ups dentro da página (Não inclui widgets e botões de redes sociais. Para bloqueá-los, você pode usar o filtro de mídia social separadamente). Ela foi inspirada pela lista Fanboy Annoyances List, mas não o duplica, então você pode usar as duas juntas.
 
 [Ver todas as regras](https://filters.adtidy.org/extension/chromium/filters/14.txt)
 
